@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../company"
+		},
+		{
+			"path": "../HTML_CSS"
+		},
+		{
+			"path": "../kadai_005"
+		},
+		{
+			"path": "../form"
+		},
+		{
+			"path": "../layout"
+		},
+		{
+			"path": "../audio"
+		},
+		{
+			"path": "../video"
+		},
+		{
+			"path": "../details"
+		},
+		{
+			"path": "../iframe"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
