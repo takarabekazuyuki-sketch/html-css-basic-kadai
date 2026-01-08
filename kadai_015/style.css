@@ -1,0 +1,33 @@
+/* html要素のフォントサイズを20pxにする */
+html {
+    font-size: 20px;
+}
+
+/* body全体のフォント種類と中央寄せの設定 */
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+
+/* h1の装飾設定 */
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem; /* ルート要素(20px)の2倍 */
+    letter-spacing: 1.2em; /* 文字の大きさに対して1.2倍 */
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3); /* 影（自由設定） */
+    border-bottom: 3px solid rgb(115, 115, 114);
+}
+
+/* 文字色の設定（クラス名を使用） */
+.blue {
+    color: skyblue; /* スカイブルーをキーワードで指定 */
+}
+
+.pink {
+    color: rgb(255, 192, 203); /* ピンクをrgbで指定 */
+}
+
+/* id属性basicの中にあるp要素（名前、生年月日、血液型）のみを太字にする */
+#basic p {
+    font-weight: bold;
+}
